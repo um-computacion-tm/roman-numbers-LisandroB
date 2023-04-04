@@ -55,9 +55,7 @@ def funcion_ok(a):
             elif a == 10:
                 roman+='X';
                 break;
-    return roman;
-
-
+    return roman;a
 
 class PrimerTest(unittest.TestCase):
     def test_1(self):
